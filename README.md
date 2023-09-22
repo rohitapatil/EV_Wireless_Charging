@@ -1,2 +1,19 @@
 # EV_Wireless_Charging
 Dynamic Wireless Charging Techniques for EVs
+
+## Abstract
+
+This project explores various techniques for dynamic wireless charging and compares their effectiveness and limitations. The need for convenient and efficient methods for charging batteries wirelessly has led to extensive research in wireless power transfer. In this project, we have investigated the feasibility of inductive wireless charging, capacitive wireless charging, and microwave wireless charging. Our study involves a comprehensive analysis of the performance of these techniques in terms of efficiency, power transfer range, and safety. We have also conducted extensive research on magnetic coupling wireless charging and resonant inductive and capacitive power transfer (RIPT and RAPT) techniques. Our analysis includes a comparison of these methods with other wireless charging techniques.
+
+- Inductive wireless charging uses magnetic field coupling to transfer power wirelessly. We have studied the effectiveness of this method in different applications and analyzed its limitations, including its limited power transfer range and the need for close proximity between the transmitter and the receiver.
+- Capacitive wireless charging uses electric field coupling and does not require close proximity between the transmitter and the receiver. However, it is less efficient than inductive wireless charging and requires a high-voltage power source, which can be a safety concern.
+- Microwave wireless charging uses microwave radiation to transmit power wirelessly. It offers a longer power transfer range and higher efficiency than inductive and capacitive wireless charging, but it requires careful attention to safety due to the potential risks associated with exposure to microwave radiation.
+
+We have also analyzed magnetic coupling wireless charging and resonant inductive and capacitive power transfer techniques. Magnetic coupling wireless charging is less efficient than inductive wireless charging, but it offers a longer power transfer range. Resonant inductive and capacitive power transfer techniques offer higher efficiency and a longer power transfer range than inductive and capacitive wireless charging. Through our analysis, we aim to identify the most promising techniques for dynamic wireless charging and provide insights for researchers and engineers working on developing practical and efficient wireless power transfer systems.
+
+## Introduction
+
+The increasing demand for portable electronic devices and electric vehicles has led to a growing need for efficient and convenient methods for charging batteries wirelessly. Over the years, researchers have explored various techniques for wireless power transfer, including inductive and capacitive coupling, as well as microwave wireless charging.
+In this project, we have investigated the effectiveness of these techniques for wireless power transfer and compared their advantages and limitations. Specifically, we have explored the feasibility of inductive wireless charging and capacitive wireless charging, which rely on magnetic and electric field coupling respectively, as well as microwave wireless charging, which uses microwave radiation to transmit power wirelessly.
+In addition to these three methods, we have also conducted thorough research on magnetic coupling wireless charging and resonant inductive and capacitive power transfer (RIPT and RAPT) techniques. We have analyzed the performance of these techniques and compared them with the other methods in terms of efficiency, power transfer range, and safety.
+Through our research, we aim to contribute to the advancement of the field of wireless power transfer by identifying the most promising techniques for dynamic wireless charging. We believe that the results of our study will be valuable for researchers and engineers working on developing practical and efficient wireless power transfer systems.
